@@ -18,7 +18,7 @@ Saat ini, FaceDx belum tersedia di Play Store. Namun, Anda tetap bisa mencoba ap
 Langkah-langkah:
   1. Kunjungi halaman GitHub kami:
     👉 https://github.com/RivalRasyid/mobile-app-dev/releases/tag/FaceDXv2
-    (Gantilah dengan tautan asli repositori GitHub Anda)
+
   2.Temukan bagian Latest release.
 
   3.Unduh file .apk dari rilis terbaru, misalnya:
